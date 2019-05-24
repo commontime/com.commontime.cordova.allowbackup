@@ -1,5 +1,5 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
           package="com.commontime.cordova.allowbackup">
-    <application android:allowBackup="false"/>
+    <application android:allowBackup="false" android:resizeableActivity="false"/>
 </manifest>
 
